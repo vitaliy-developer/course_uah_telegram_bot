@@ -12,7 +12,9 @@ Get a bot token to communicate with the Telegram API.
 Example token to access the HTTP API:
 XXXXXXXXXX:XXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+```sh
 $ python3 --version
 $ pip --version
 $ pip install python-telegram-bot==13.7
 $ python3 uah_telegram_bot.py
+```
